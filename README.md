@@ -18,7 +18,7 @@
 ## 💀 Quick Hauntings
 - 🔍 **LeetCode:** <a href="https://leetcode.com/DaSeeker67/"><img src="https://img.shields.io/badge/LeetCode-1696-brightgreen?logo=leetcode" alt="LeetCode"/></a>  
 - 🍛 **CodeChef:** <a href="https://www.codechef.com/users/DaSeeker67"><img src="https://img.shields.io/badge/CodeChef-3★-orange?logo=codechef" alt="CodeChef"/></a>  
-- 🌐 **Portfolio:** <a href="https://rt-folio.vercel.app">rt-folio</a>  
+- 🌐 **Portfolio:** <a href="https://port-folio.vercel.app">rt-folio</a>  
 - 🎃 **Holopin Board:** [![Holopin board](https://holopin.io/api/user/board?user=daseeker67)](https://holopin.io/@daseeker67)
 
 ---
