@@ -1,8 +1,5 @@
 <!-- 🌑🕸️ Neon Spook README for @DaSeeker67 🕸️🌑 -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPnsRwwOii4njEc/giphy.gif" alt="neon pulse" width="250"/>
-</p>
 
 <h1 align="center">
   <span style="color:#39ff14; text-shadow:0 0 10px #39ff14;">👋 Hey, I’m <a href="https://github.com/DaSeeker67">DaSeeker67</a></span>
