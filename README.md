@@ -13,8 +13,8 @@
 ---
 
 ## 💀 Quick Hauntings
-- 🔍 **LeetCode:** <a href="https://leetcode.com/DaSeeker67/"><img src="https://img.shields.io/badge/LeetCode-1696-brightgreen?logo=leetcode" alt="LeetCode"/></a>  
-- 🍛 **CodeChef:** <a href="https://www.codechef.com/users/DaSeeker67"><img src="https://img.shields.io/badge/CodeChef-3★-orange?logo=codechef" alt="CodeChef"/></a>  
+- 🔍 **LeetCode:** <a href="https://leetcode.com/u/amitmishra4447/"><img src="https://img.shields.io/badge/LeetCode-1696-brightgreen?logo=leetcode" alt="LeetCode"/></a>  
+- 🍛 **CodeChef:** <a href="https://www.codechef.com/users/batman76"><img src="https://img.shields.io/badge/CodeChef-3★-orange?logo=codechef" alt="CodeChef"/></a>  
 - 🌐 **Portfolio:** <a href="https://po-rt-folio.vercel.app">rt-folio</a>  
 - 🎃 **Holopin Board:** [![Holopin board](https://holopin.io/api/user/board?user=daseeker67)](https://holopin.io/@daseeker67)
 
@@ -30,7 +30,8 @@
 ---
 
 ## 🎃 Projects from the Crypt
-- **Codistar** – AI-powered IDE with real-time code spells (React, Llama 2, RAG)  
+- **Codistar** – AI-powered IDE with real-time code spells (React, Llama 2, RAG)
+- **Zen-chat** - Room based chat app using Websocket 
 - **Vakmitra** – Offline 10-language translator on Raspberry Pi (Vosk, Marian NMT)  
 - **SaaS Marketplace** – MERN platform with ML form-magic & Razorpay  
 
