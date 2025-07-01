@@ -13,7 +13,7 @@
 ---
 
 ## 💀 Quick Hauntings
-- 🔍 **LeetCode:** <a href="https://leetcode.com/u/amitmishra4447/"><img src="https://img.shields.io/badge/LeetCode-1696-brightgreen?logo=leetcode" alt="LeetCode"/></a>  
+- 🔍 **LeetCode:** <a href="https://leetcode.com/u/amitmishra4447/"><img src="https://img.shields.io/badge/LeetCode-1746-brightgreen?logo=leetcode" alt="LeetCode"/></a>  
 - 🍛 **CodeChef:** <a href="https://www.codechef.com/users/batman76"><img src="https://img.shields.io/badge/CodeChef-3★-orange?logo=codechef" alt="CodeChef"/></a>  
 - 🌐 **Portfolio:** <a href="https://po-rt-folio.vercel.app">rt-folio</a>  
 - 🎃 **Holopin Board:** [![Holopin board](https://holopin.io/api/user/board?user=daseeker67)](https://holopin.io/@daseeker67)
